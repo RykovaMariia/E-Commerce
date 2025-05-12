@@ -10,8 +10,8 @@
     </Head>
 
     ASDF
-    <ULink as="button">Sign in</ULink>
-    <ULink as="button">Sign up</ULink>
+    <ULink as="button" to="/login">Sign in</ULink>
+    <ULink as="button" to="/register">Sign up</ULink>
   </div>
 </template>
 
