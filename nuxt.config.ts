@@ -11,6 +11,10 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/scripts',
     '@nuxt/test-utils',
-    '@nuxt/ui'
-  ]
+    '@nuxt/ui',
+    '@vueuse/nuxt',
+    '@nuxtjs/robots',
+    '@nuxtjs/sitemap',
+    '@formkit/nuxt',
+  ],
 })
